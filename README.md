@@ -1,5 +1,3 @@
-# Wordcloud
+# Visualization
 
- - 01_wordcloud.py
-
-![wordcloud_result](./wordcloud.png)
+- 01_wordcloud
