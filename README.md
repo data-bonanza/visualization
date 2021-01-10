@@ -1,3 +1,3 @@
 # wordcloud
 
-![wordcloud_result](./wordcloud/wordcloud.png)
+![wordcloud_result](./wordcloud.png)
